@@ -1,0 +1,15 @@
+{"time":"2025-04-03T21:14:17.5898616+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\iedev\\Desktop\\SPRING 2025\\DI 725 - Transformers\\Assignments\\Assignment_1\\Trial_Generation\\DI725-main\\assignment_1\\wandb\\run-20250403_211417-st80a6v1\\logs\\debug-core.log"}
+{"time":"2025-04-03T21:14:18.6125073+03:00","level":"INFO","msg":"created new stream","id":"st80a6v1"}
+{"time":"2025-04-03T21:14:18.6131958+03:00","level":"INFO","msg":"stream: started","id":"st80a6v1"}
+{"time":"2025-04-03T21:14:18.6130505+03:00","level":"INFO","msg":"handler: started","stream_id":"st80a6v1"}
+{"time":"2025-04-03T21:14:18.6131958+03:00","level":"INFO","msg":"sender: started","stream_id":"st80a6v1"}
+{"time":"2025-04-03T21:14:18.6131958+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"st80a6v1"}
+{"time":"2025-04-03T21:14:19.2990702+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T21:17:18.7945372+03:00","level":"INFO","msg":"stream: closing","id":"st80a6v1"}
+{"time":"2025-04-03T21:17:18.7945372+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-03T21:17:18.7953328+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-03T21:17:19.6411027+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-03T21:17:20.5720115+03:00","level":"INFO","msg":"handler: closed","stream_id":"st80a6v1"}
+{"time":"2025-04-03T21:17:20.5720115+03:00","level":"INFO","msg":"sender: closed","stream_id":"st80a6v1"}
+{"time":"2025-04-03T21:17:20.5720115+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"st80a6v1"}
+{"time":"2025-04-03T21:17:20.5733175+03:00","level":"INFO","msg":"stream: closed","id":"st80a6v1"}
